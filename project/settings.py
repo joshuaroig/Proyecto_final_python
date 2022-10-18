@@ -10,7 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 #<<<<<<< HEAD
-# prueba 2
+# NUEVA PRUEBA 17-OCT-2022
 #=======
 # prueba_hola soy joshua :p
 #>>>>>>> 8030a8b5c3dfd1a4bca378fadb7d388101a54d1e
